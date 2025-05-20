@@ -1,0 +1,2 @@
+Prefix plugins/AttentionFilter/example/
+Plugin AttentionFilter inputfile parameters.txt outputfile attn.pkl

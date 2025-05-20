@@ -1,0 +1,3 @@
+scorefile	attn.merge.pkl
+x	pred_label
+value	1
